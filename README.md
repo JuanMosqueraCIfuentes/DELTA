@@ -1,2 +1,2 @@
 # DELTA
-Line Following Robot in Assembler Language
+This repository presents the analysis, development and simulation of Delta; a black line follower robot in assembly language for the Digital Electronics II course. It is a differential robot with a digital array of five line sensors that uses a PIC16F877A microcontroller, a L293D driver for its operation and in addition, its operation must comply with some parameters in which two geared motors and 3 LEDs are used. Delta was made with the help of MPLABX and Proteus software for programming and simulation. Here is possible to find the code designed in assembly language for its correct operation, the proteus 8.10 simulation and a report where the process specificactions for the results obtained are observed.
